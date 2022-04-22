@@ -1,20 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/src/K/Bianji.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/K/CreatTree.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/K/Good.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/K/Main.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/K/Putong.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/K/Show.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/K/guanli.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/K/tianjia.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/N/DianShang.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/N/personnal.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/NOTE/DianShang.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/NOTE/person2.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/NOTE/person3.java" charset="UTF-8" />
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/ShopText/Bianji.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ShopText/CreatTree.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ShopText/Good.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ShopText/Main.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ShopText/Putong.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ShopText/Show.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ShopText/guanli.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ShopText/tianjia.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/StudentSystem/src/indi/wrenn/studentsystem/util/CreateSql.java" charset="UTF-8" />
-    <file url="PROJECT" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Text/stringEasy.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Text/text1.java" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

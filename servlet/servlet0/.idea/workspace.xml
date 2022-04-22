@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="servlet0:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bf5fa3cc-5e39-4cf0-9eff-90747366d9a5" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/google-java-format.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/leetcode/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/log4j.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/Text/Tcp1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/Text/tcp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/sqldialects.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../goods.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../goods.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea workbace.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea workbace.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../img/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../img/12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../img/add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../img/add2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../img/an.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../img/an2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../img/an3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../img/find.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../img/find2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../img/info.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../img/login.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../img/update.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../img/update2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/ATM1/ATMD/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/ATM1/ATMD/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/ATM2/Account1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/ATM2/ChangePassword.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/ATM2/InMoney.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/ATM2/Inqury.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/ATM2/LoginGui.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/ATM2/Menu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/ATM2/OutMoney.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/ATM2/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/ATM2/Transfer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/K/Bianji.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/ShopText/Bianji.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/K/CreatTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/ShopText/CreatTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/K/Good.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/ShopText/Good.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/K/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/ShopText/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/K/ObjectStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/ShopText/ObjectStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/K/Putong.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/ShopText/Putong.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/K/Show.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/ShopText/Show.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/K/guanli.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/ShopText/guanli.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/K/tianjia.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/ShopText/tianjia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/K/tishi1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/ShopText/tishi1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/K/tishi2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/ShopText/tishi2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/K/tishi3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/ShopText/tishi3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/N/DianShang.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/N/Good.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/N/GreateTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/N/ObjectDataStream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/N/TreeData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/N/UsersData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/N/addGoods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/N/personnal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/N/text1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/N/treeandB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Text/Dangers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Text/Digital.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Text/IDcard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Text/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Text/SUM.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Text/Teacher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Text/text1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/Text/text1.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="27yo1LtMJYltIauYzS7PjzPX4JZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "true",
+    "WebServerToolWindowPanel.toolwindow.highlight.mappings": "true",
+    "WebServerToolWindowPanel.toolwindow.highlight.symlinks": "true",
+    "WebServerToolWindowPanel.toolwindow.show.date": "false",
+    "WebServerToolWindowPanel.toolwindow.show.permissions": "false",
+    "WebServerToolWindowPanel.toolwindow.show.size": "false",
+    "last_opened_file_path": "D:/idea workbace/servlet/servlet0/src/main/resources",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "项目",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\idea workbace\servlet\servlet0\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 8.5.75" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.75" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/servlet0" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="servlet0:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/servlet0" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="c6a99fd5-5f71-4428-84f9-f1607ba260ac" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="55974" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="servlet0:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="bf5fa3cc-5e39-4cf0-9eff-90747366d9a5" name="变更" comment="" />
+      <created>1650301470240</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650301470240</updated>
+      <workItem from="1650301471554" duration="508000" />
+      <workItem from="1650329274986" duration="1279000" />
+      <workItem from="1650382902424" duration="1965000" />
+      <workItem from="1650467929591" duration="1986000" />
+      <workItem from="1650517126734" duration="2077000" />
+      <workItem from="1650552817853" duration="4845000" />
+      <workItem from="1650604156319" duration="7646000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

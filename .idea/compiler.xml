@@ -4,5 +4,13 @@
     <annotationProcessing>
       <profile default="true" name="Default" enabled="true" />
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="eladmin" target="1.5" />
+      <module name="eladmin-common" target="1.5" />
+      <module name="eladmin-generator" target="1.5" />
+      <module name="eladmin-logging" target="1.5" />
+      <module name="eladmin-system" target="1.5" />
+      <module name="eladmin-tools" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>

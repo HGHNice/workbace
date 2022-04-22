@@ -60,7 +60,6 @@ public class Account {    //此类编写所有方法
                 preparedStatement.setString(5, id);
                 preparedStatement.executeUpdate();
             } else if (isDeposit.equals("-")) {
-
                 preparedStatement.setString(1, date);
                 preparedStatement.setString(2, id);
                 preparedStatement.setString(3,money );
