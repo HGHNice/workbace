@@ -9,85 +9,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf5fa3cc-5e39-4cf0-9eff-90747366d9a5" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/../../.idea/google-java-format.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/leetcode/editor.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/log4j.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../src/Text/Tcp1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../src/Text/tcp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/sqldialects.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../goods.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../goods.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../idea workbace.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea workbace.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../img/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../img/12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../img/add.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../img/add2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../img/an.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../img/an2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../img/an3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../img/find.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../img/find2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../img/info.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../img/login.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../img/update.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../img/update2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/ATM1/ATMD/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/ATM1/ATMD/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/ATM2/Account1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/ATM2/ChangePassword.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/ATM2/InMoney.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/ATM2/Inqury.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/ATM2/LoginGui.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/ATM2/Menu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/ATM2/OutMoney.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/ATM2/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/ATM2/Transfer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/K/Bianji.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/ShopText/Bianji.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/K/CreatTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/ShopText/CreatTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/K/Good.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/ShopText/Good.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/K/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/ShopText/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/K/ObjectStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/ShopText/ObjectStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/K/Putong.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/ShopText/Putong.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/K/Show.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/ShopText/Show.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/K/guanli.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/ShopText/guanli.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/K/tianjia.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/ShopText/tianjia.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/K/tishi1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/ShopText/tishi1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/K/tishi2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/ShopText/tishi2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/K/tishi3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/ShopText/tishi3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/N/DianShang.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/N/Good.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/N/GreateTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/N/ObjectDataStream.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/N/TreeData.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/N/UsersData.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/N/addGoods.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/N/personnal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/N/text1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/N/treeandB.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/Text/Dangers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/Text/Digital.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/Text/IDcard.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/Text/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/Text/SUM.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/Text/Teacher.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/Text/text1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/Text/text1.java" afterDir="false" />
+    <list default="true" id="bf5fa3cc-5e39-4cf0-9eff-90747366d9a5" name="变更" comment="4.23">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Jsp File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -121,31 +45,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "true",
-    "WebServerToolWindowPanel.toolwindow.highlight.mappings": "true",
-    "WebServerToolWindowPanel.toolwindow.highlight.symlinks": "true",
-    "WebServerToolWindowPanel.toolwindow.show.date": "false",
-    "WebServerToolWindowPanel.toolwindow.show.permissions": "false",
-    "WebServerToolWindowPanel.toolwindow.show.size": "false",
-    "last_opened_file_path": "D:/idea workbace/servlet/servlet0/src/main/resources",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "项目",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.mappings&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.symlinks&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.date&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.permissions&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.size&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/idea workbace/servlet/servlet0/src/main/resources&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;项目&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\idea workbace\servlet\servlet0\src\main\resources" />
@@ -255,8 +179,18 @@
       <workItem from="1650467929591" duration="1986000" />
       <workItem from="1650517126734" duration="2077000" />
       <workItem from="1650552817853" duration="4845000" />
-      <workItem from="1650604156319" duration="7646000" />
+      <workItem from="1650604156319" duration="10613000" />
+      <workItem from="1650681625894" duration="4720000" />
+      <workItem from="1650784844630" duration="39000" />
     </task>
+    <task id="LOCAL-00001" summary="4.23">
+      <created>1650644082431</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1650644082431</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -272,5 +206,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="4.23" />
+    <option name="LAST_COMMIT_MESSAGE" value="4.23" />
   </component>
 </project>
