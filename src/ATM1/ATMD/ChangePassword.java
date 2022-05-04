@@ -82,45 +82,45 @@ public class ChangePassword extends JFrame implements ActionListener{
 		yecheck.setBounds(681, 377, 93, 33);
 		contentPane.add(yecheck);
 
-		JPanel 修改密码 = new JPanel();
-		修改密码.setBorder(new TitledBorder(null, "\u4FEE\u6539\u5BC6\u7801\u7A97\u53E3", TitledBorder.CENTER, TitledBorder.TOP, null, null));
-		修改密码.setBounds(113, 66, 558, 344);
-		contentPane.add(修改密码);
-		修改密码.setLayout(null);
+		JPanel changepassword = new JPanel();
+		changepassword.setBorder(new TitledBorder(null, "\u4FEE\u6539\u5BC6\u7801\u7A97\u53E3", TitledBorder.CENTER, TitledBorder.TOP, null, null));
+		changepassword.setBounds(113, 66, 558, 344);
+		contentPane.add(changepassword);
+		changepassword.setLayout(null);
 
 		JLabel lblNewLabel = new JLabel("\u300A\u8FD4\u56DE");
 		lblNewLabel.setBounds(0, 319, 54, 15);
-		修改密码.add(lblNewLabel);
+		changepassword.add(lblNewLabel);
 
 		JLabel lblNewLabel_1 = new JLabel("\u786E\u8BA4\u300B");
 		lblNewLabel_1.setBounds(504, 319, 54, 15);
-		修改密码.add(lblNewLabel_1);
+		changepassword.add(lblNewLabel_1);
 
 		JLabel lblNewLabel_2 = new JLabel("\u539F\u5BC6\u7801");
 		lblNewLabel_2.setBounds(137, 100, 54, 15);
-		修改密码.add(lblNewLabel_2);
+		changepassword.add(lblNewLabel_2);
 
 		JLabel lblNewLabel_3 = new JLabel("\u65B0\u5BC6\u7801");
 		lblNewLabel_3.setBounds(137, 146, 54, 15);
-		修改密码.add(lblNewLabel_3);
+		changepassword.add(lblNewLabel_3);
 
 		JLabel lblNewLabel_4 = new JLabel("\u786E\u8BA4\u5BC6\u7801");
 		lblNewLabel_4.setBounds(127, 190, 54, 15);
-		修改密码.add(lblNewLabel_4);
+		changepassword.add(lblNewLabel_4);
 
 		oldpassword = new JTextField();
 		oldpassword.setBounds(181, 97, 147, 21);
-		修改密码.add(oldpassword);
+		changepassword.add(oldpassword);
 		oldpassword.setColumns(10);
 
 		newpassword = new JTextField();
 		newpassword.setBounds(181, 143, 147, 21);
-		修改密码.add(newpassword);
+		changepassword.add(newpassword);
 		newpassword.setColumns(10);
 
 		checkpassword = new JTextField();
 		checkpassword.setBounds(181, 187, 147, 21);
-		修改密码.add(checkpassword);
+		changepassword.add(checkpassword);
 		checkpassword.setColumns(10);
 		frame3.setLocationRelativeTo(null);
 
